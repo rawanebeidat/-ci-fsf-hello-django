@@ -1,6 +1,2 @@
-core.Microsoft*
-core.mongo*
-core.python*
-env.py
+*.squlite3
 __pycache__/
-*.py[cod]
