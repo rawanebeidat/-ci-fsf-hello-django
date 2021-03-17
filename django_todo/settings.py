@@ -26,7 +26,7 @@ SECRET_KEY = 'y#&y^6=68^md#$6=-*bg#_)k040(lehdl)+9p&&7xjm6t#mbbc'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['todo-list-rawan.herokuapp.com']
 
 
 # Application definition
